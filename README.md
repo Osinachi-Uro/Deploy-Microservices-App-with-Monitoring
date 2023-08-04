@@ -1,7 +1,8 @@
 # Deploy-Microservices-App-with-Monitoring
 
 ## Project Summary
-In this project, I deployed a microservices application and 
+In this project, I used modern DevOps tools to deploy a microservices application and set up monitoring.
+
 ## Tools: 
 * Terraform (Infrastructure as Code)
 * Helm Chart (Package Manager for Kubernetes)
