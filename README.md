@@ -5,13 +5,12 @@ In this project, I used modern DevOps tools to deploy a microservices applicatio
 
 ## Tools: 
 * Terraform (Infrastructure as Code)
-* Helm Chart (Package Manager for Kubernetes)
+* Helm Chart (Package Manager for Kubernetes - kube-Prometheus-stack chart)
 * Kubernetes (Container Orchestration)
-* Docker Hub (Container Registry)
 * Prometheus (Monitory and Alert Manager)
 * Grafana (Data Visualisation)
 * AWS S3 (Terraform Statefile Storage)
-* Digital Ocean (Managed Kubernetes Service)
+* Digital Ocean (VM & Managed Kubernetes Service)
 
 ## Sample App
 [The Sock Shop](https://github.com/microservices-demo/microservices-demo/tree/master)
